@@ -1,6 +1,6 @@
 # The window object is not available in Node. The window object is a reference to the browser window.
 # The window object is provided by the Chrome runtime when V8 is running in the Chrome browser.
-# The NodeJs runtime has a comparable feature, a variable called global
+# The NodeJs runtime has a comparable feature, a variable called global.
 global
 
 # The browser also has the document which allows viewing and manipulating the DOM.
