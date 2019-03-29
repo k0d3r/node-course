@@ -1,1 +1,21 @@
+# The window object is not available in Node. The window object is a reference to the browser window.
+# The window object is provided by the Chrome runtime when V8 is running in the Chrome browser.
+# The NodeJs runtime has a comparable feature, a variable called global
+global
+
+# The browser also has the document which allows viewing and manipulating the DOM.
+# The NodeJs corresponding item is process
+# process provides access to various Node properties and methods which enable manipulation of the Node process.
+process
+
+NodeJS uses the Chrome V8 engine to run JavaScript.
+NodeJS extends the JavaScript language by providing C++ bindings to V8.
+This enables JavaScript to do anything that C++ can do. E.G C++ can access the file system so JavaScript running on NodeJs can now access the file system.
+
+
+
+
+
+
+
 
