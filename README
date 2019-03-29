@@ -4,7 +4,7 @@
 global
 
 # The browser also has the document which allows viewing and manipulating the DOM.
-# The NodeJs corresponding item is process
+# The NodeJs corresponding item is process.
 # process provides access to various Node properties and methods which enable manipulation of the Node process.
 process
 
